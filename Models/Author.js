@@ -25,4 +25,4 @@ let authorSchema = new mongoose.Schema({
         required: true
     }
 })
-module.exports = mongoose.model('author', authorSchema)
+module.exports = mongoose.model('dileepAuthor', authorSchema)
